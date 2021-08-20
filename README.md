@@ -13,6 +13,20 @@ data:text/plain;charset=utf-8,☳☰☶☴☲%0A☷☲☰☴☰%0A☱☶☰☴�
 #### Example 2: 
 data:text/plain;charset=utf-8,☶☵☲☱☱%0A☵☷☰☳☶%0A☳☱☰☵☲%0A☲☳☶☷☷%0A☱☷☳☰☵%0A
 
+
+Trigram Symbol	Trigram Name	Decimal	Hex
+- ☰	Trigram For Heaven
+- ☱	Trigram For Lake
+- ☲	Trigram For Fire
+- ☳	Trigram For Thunder
+- ☴	Trigram For Wind
+- ☵	Trigram For Water
+- ☶	Trigram For Mountain
+- ☷	Trigram For Earth
+
+More about Trigrams: 
+[Unicode reference](https://www.compart.com/en/unicode/U+2630) 
+
 Deployed on [Ethereum Mainnet](https://etherscan.io/address/0x826b1b3a631ab948884255c547264956bd3839e5)
 
 Price is 200 Finney per token. Beneficiary is SemanticCORD. 
