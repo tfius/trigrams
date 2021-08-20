@@ -1,6 +1,4 @@
-# trigrams
-generative algorithm capable of creating unique collections of trigrams
-
+# Trigrams
 Optimized generative algorithm capable of creating unique collections of trigrams, wrapped inside an ERC-721 interface. 
 
 Inspired by [Autoglyphs](https://www.larvalabs.com/autoglyphs) 
