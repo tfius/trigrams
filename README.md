@@ -28,8 +28,7 @@ More about Trigrams:
 [Unicode reference](https://www.compart.com/en/unicode/U+2630) 
 
 Deployed on [Ethereum Mainnet](https://etherscan.io/address/0x826b1b3a631ab948884255c547264956bd3839e5)
-
-Price is 200 Finney per token. Beneficiary is SemanticCORD. 
+I minted 2 tokens, there are 1022 left to be minted. Price is 200 Finney per token. Beneficiary is SemanticCORD. 
 
 
 
