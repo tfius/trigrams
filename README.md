@@ -14,7 +14,7 @@ data:text/plain;charset=utf-8,☳☰☶☴☲%0A☷☲☰☴☰%0A☱☶☰☴�
 data:text/plain;charset=utf-8,☶☵☲☱☱%0A☵☷☰☳☶%0A☳☱☰☵☲%0A☲☳☶☷☷%0A☱☷☳☰☵%0A
 
 
-Trigram Symbol	Trigram Name	Decimal	Hex
+Symbol Trigram Name
 - ☰	Trigram For Heaven
 - ☱	Trigram For Lake
 - ☲	Trigram For Fire
