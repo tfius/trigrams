@@ -13,6 +13,7 @@ data:text/plain;charset=utf-8,☳☰☶☴☲%0A☷☲☰☴☰%0A☱☶☰☴�
 #### Example 2: 
 data:text/plain;charset=utf-8,☶☵☲☱☱%0A☵☷☰☳☶%0A☳☱☰☵☲%0A☲☳☶☷☷%0A☱☷☳☰☵%0A
 
+You can paste text into browser to see it. (Zoom to 300%)  
 
 Symbol Trigram Name
 - ☰	Trigram For Heaven
