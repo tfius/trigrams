@@ -1,4 +1,3 @@
-![Trigram 1](https://user-images.githubusercontent.com/1674145/130354049-8133fd4e-06bc-4c61-a221-69d0bf741705.JPG)
 # Trigrams
 Optimized generative algorithm capable of creating unique collections of trigrams, wrapped inside an ERC-721 interface. 
 
@@ -9,7 +8,8 @@ If you examine any glpyh creation transaction on the blockchain. The event data 
 
 #### Example 1: 
 data:text/plain;charset=utf-8,☳☰☶☴☲%0A☷☲☰☴☰%0A☱☶☰☴☰%0A☵☰☲☴☶%0A☲☳☴☴☵%0A
-![Trigram 1](https://user-images.githubusercontent.com/1674145/130354063-df471f18-88f7-4572-8e62-611e135f9343.JPG)
+![Trigram 1](https://user-images.githubusercontent.com/1674145/130354093-adb3d581-4d2b-422c-8115-c04c27b88e03.JPG)
+
 
 #### Example 2: 
 data:text/plain;charset=utf-8,☶☵☲☱☱%0A☵☷☰☳☶%0A☳☱☰☵☲%0A☲☳☶☷☷%0A☱☷☳☰☵%0A
